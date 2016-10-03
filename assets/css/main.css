@@ -1084,9 +1084,12 @@ body {
     transition: left .2s ease-in-out
 }
 .about--banner img {
-    position: absolute;
+    /*position: absolute;
     bottom: -90px;
-    right: -12px
+    right: -12px*/
+    display:inline-block;
+    float: right;
+    vertical-align: text-top;
 }
 .about--options {
     display: -webkit-box;
