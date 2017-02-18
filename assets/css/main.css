@@ -1090,6 +1090,8 @@ body {
     display:inline-block;
     float: right;
     vertical-align: text-top;
+    width: 40%;
+    padding-top: 50px;
 }
 .about--options {
     display: -webkit-box;
